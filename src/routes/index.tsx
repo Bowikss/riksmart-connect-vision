@@ -19,8 +19,9 @@ import {
   TrafficCone,
   X,
   Zap,
+  type LucideIcon,
 } from "lucide-react";
-import { useEffect, useState, type LucideIcon } from "react";
+import { useEffect, useState } from "react";
 import logoAsset from "../assets/rik-logo.svg.asset.json";
 
 export const Route = createFileRoute("/")({
