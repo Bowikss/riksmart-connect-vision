@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { Activity, ArrowRight, BatteryCharging, CheckCircle2, ChevronRight, CloudCog, Cpu, Gauge, Menu, Network, Plus, PlugZap, Radio, Route as RouteIcon, ShieldCheck, Signal, Sun, TrafficCone, X, Zap, type LucideIcon } from "lucide-react";
+import { Activity, ArrowRight, BatteryCharging, CheckCircle2, ChevronRight, CloudCog, Cpu, Gauge, Menu, Network, PlugZap, Radio, Route as RouteIcon, ShieldCheck, Signal, Sun, TrafficCone, X, Zap, type LucideIcon } from "lucide-react";
 import { useEffect, useState } from "react";
 import logoAsset from "../assets/rik-logo.svg.asset.json";
 
